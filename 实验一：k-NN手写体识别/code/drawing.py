@@ -44,5 +44,5 @@ title = ['The result of 10-fold cross validation(cycles=1,2,5,10)', \
          'The result of k-NN and sklearn k-NN']
 K = 10  # 近邻度K上限
 
-pic1(title, K)
-pic2(title, K)
+pic1(title[0], K)
+pic2(title[1], K)
